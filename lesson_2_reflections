@@ -1,0 +1,6 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+
+   a .git directory is created and populated. git init is required to create the .git structure
+   so that file commits can be tracked and stored and the repositroy can be managed.
+
+2. 

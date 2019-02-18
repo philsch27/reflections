@@ -1,0 +1,56 @@
+
+1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+   Command diff with the -u flag makes it easier to identify which files are being references throughout 
+   the output and thus makes it more efficient to locate differences, typos, etc. and make corrections.
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in 
+   the long term?
+
+   This provides the ability to review changes, codes in previous v ersions you may want to reference and
+   use again. You may want to go back to previous versions.
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in 
+   Git, vs having versions automatically saved, like Google Docs does?
+
+   Pros
+   ----
+   Version history does not become cluttered or full of versions with very minor and imcomplete changes.
+
+   Cons
+   ----
+   A programmer can work far too long on a piece of code without saving changes and lose substantial work. 
+   Program or system crash can cause the loss of not comitted changes.
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while 
+   others, like Google Docs, treat each file separately?
+
+   Git is geared toward coding and development which often includes modification across multiple files that 
+   work together. Version control across multiple files extremely efficient.
+
+5. How can you use the commands git log and git diff to view the history of files?
+
+   git log:  List commits (changes) and determine which changes you wich to evaluate
+   git diff: Compare commits to determine what changes have been madew and where
+
+6. How might using version control make you more confident to make changes that could break something?
+
+   Verision control allows you to locate and fix a bug quickly without effecting production.
+
+7. Now that you have your workspace set up, what do you want to try using Git for?
+
+   I would like to learn how best to use git version control and github repositories and sharing.
+
+8.  
+
+
+
+
+
+
+
+
+
+
+
+    
