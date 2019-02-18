@@ -3,4 +3,12 @@
    a .git directory is created and populated. git init is required to create the .git structure
    so that file commits can be tracked and stored and the repositroy can be managed.
 
-2. 
+2. How is the staging area different from the working directory and the repository? What value do 
+   you think it offers?
+
+   The staging area is a temporary space for files that are to be comitted to the repository. Files
+   may be added and reomved prior to executing a commit.
+
+3. 
+
+
