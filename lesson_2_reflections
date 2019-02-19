@@ -9,6 +9,10 @@
    The staging area is a temporary space for files that are to be comitted to the repository. Files
    may be added and reomved prior to executing a commit.
 
-3. 
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+   You can use git diff --stage to compare files in the staging area to those in the repository.
+
+
 
 
