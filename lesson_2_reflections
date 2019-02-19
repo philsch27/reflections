@@ -22,7 +22,12 @@
 
    Diagrams provide a big picture view of the branch structure making it easier to understand.
 
-6. 
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+   Merge results in combining two peices of code into one working branch/version. The diagram makes it 
+   easier to understand what is contained in each branch.
+
+7. 
 
 
 
