@@ -13,6 +13,14 @@
 
    You can use git diff --stage to compare files in the staging area to those in the repository.
 
+4. What are some situations when branches would be helpful in keeping your history organized? How 
+   would branches help?
+
+   Adding a new feature i.e. language, graphic, speed, etc. to an existing branch of code
+
+5. 
+
+
 
 
 
