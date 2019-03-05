@@ -27,9 +27,13 @@
    Merge results in combining two peices of code into one working branch/version. The diagram makes it 
    easier to understand what is contained in each branch.
 
-7. 
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
+   Pros: Allows you to fix/edit files manually as you want them to be and have the desired changes in the code
+         as opposed to depending on any logic within git to determine and fix conflicts.
+   Cons: Requires more time and effort to fix the code. 
 
+8. 
 
 
 
