@@ -29,5 +29,6 @@
 6. When would you want to make changes in a separate branch rather than directly in master?  What 
    benefits does each approach have?
 
-   TBD - Fill in your answer here
+   Changes in a separate brnach are isolated and so will not effect the master until such time the branches are 
+   merged, if they are merged. Branches aloow for a separate workspace to try new ideas. 
  
